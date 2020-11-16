@@ -5,6 +5,8 @@ caption: Διαφάνειες για το κεφάλαιο Αρχέτυπα
 image_url: /images/xerox-star-desktop.png
 slides:
   - ibm2471
+  - datapoint-2200
+  - trs-80
   - xerox-star-desktop
   - engelbart-mouse
   - vt100
