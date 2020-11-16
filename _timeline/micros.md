@@ -12,6 +12,7 @@ events:
   - apple2
   - visicalc
   - bbc-micro
+  - trs-80
   - home-programming
   - c64-demoscene
   - minitel
