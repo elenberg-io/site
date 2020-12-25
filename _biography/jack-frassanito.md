@@ -1,7 +1,7 @@
 ---
 author: elenberg
 title: "Jack Frassanito"
-image_url: /images/frassanito.jpg
+image_url: /images/jack-frassanito.jpg
 caption: "O Jack Frassanito, βιομηχανικός σχεδιαστής, έπαιξε πολύ σημαντικό ρόλο στη δημιουργία και το σχεδιασμό του υπολογιστή"
 categories:
   - Βιογραφία 
